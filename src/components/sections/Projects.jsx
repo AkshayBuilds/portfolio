@@ -23,7 +23,7 @@ const projects = [
         description: 'A modern web application with responsive UI and smooth user experience, built using the MERN stack and optimized for performance.',
         image: 'https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1632&auto=format&fit=crop',
         tags: ['React', 'Node.js', 'MongoDB', 'Tailwind'],
-        github: '#',
+        github: 'https://github.com/AkshayBuilds/sactch',
         live: '#'
     }
 ];
